@@ -58,6 +58,7 @@ Where you see ${some_text} this is variable text our system automatically genera
 | fr-CA                 | Canadian French        |
 | gl-ES                 | Galician               |
 | gu                    | Gujarati               |
+| ht                    | Haitian Creole         |
 | he                    | Hebrew                 |
 | hi                    | Hindi                  |
 | hr                    | Croatian               |
